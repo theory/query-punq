@@ -1,0 +1,18 @@
+Name
+    Query::Punq - Perl's Unique Query language
+
+Synopsis
+        use Query::Punq;
+
+Bugs
+    Please send bug reports to <bug-query-punq@rt.cpan.org>.
+
+Author
+    David Wheeler <david@kineticode.com>
+
+Copyright and License
+    Copyright (c) 2006 Kineticode, Inc. All Rights Reserved.
+
+    This module is free software; you can redistribute it and/or modify it
+    under the same terms as Perl itself.
+
