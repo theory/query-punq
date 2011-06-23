@@ -122,17 +122,6 @@ __END__
 
 ##############################################################################
 
-=begin comment
-
-Fake-out Module::Build. Delete if it ever changes to support =head1 headers
-other than all uppercase.
-
-=head1 NAME
-
-Query::Punq - Perl's Unique Query language
-
-=end comment
-
 =head1 Name
 
 Query::Punq - Perl's Unique Query language
@@ -164,15 +153,6 @@ Query::Punq - Perl's Unique Query language
 Please send bug reports to <bug-query-punq@rt.cpan.org>.
 
 =head1 Author
-
-=begin comment
-
-Fake-out Module::Build. Delete if it ever changes to support =head1 headers
-other than all uppercase.
-
-=head1 AUTHOR
-
-=end comment
 
 David E. Wheeler <david@justatheory.com>
 
