@@ -174,11 +174,11 @@ other than all uppercase.
 
 =end comment
 
-David Wheeler <david@kineticode.com>
+David E. Wheeler <david@justatheory.com>
 
 =head1 Copyright and License
 
-Copyright (c) 2006 Kineticode, Inc. Some Rights Reserved.
+Copyright (c) 2006-2011 David E. Wheeler. Some Rights Reserved.
 
 This module is free software; you can redistribute it and/or modify it under
 the same terms as Perl itself.
