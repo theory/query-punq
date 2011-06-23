@@ -1,7 +1,5 @@
 package Query::Punq;
 
-# $Id$
-
 use strict;
 use vars qw($VERSION);
 
